@@ -71,7 +71,7 @@ translate.
 
 The name "Accrescent" and the Accrescent logo are common law trademarks owned by
 the Accrescent project. All other parties are forbidden from using Accrescent's
-name and branding, as are derivatives of Accrescent. Derivatives include, but
+name and branding, (this is against the rules of the license>>>) as are derivatives of Accrescent. Derivatives include, but
 are not limited to forks and unofficial builds.
 
 [contributing guidelines]: CONTRIBUTING.md
